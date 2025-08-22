@@ -53,5 +53,5 @@ The project uses synthetic datasets generated with ChatGPT (1,000 records each).
 1. Dashboard page 1: https://github.com/kewal-gupta/UC-360-dashboard/blob/main/Urban_Company_Dashboard_Page_1.png
 2. Dashboard page 2: https://github.com/kewal-gupta/UC-360-dashboard/blob/main/Urban_Company_Dashboard_Page_2.png
 3. Dashboard page 3: https://github.com/kewal-gupta/UC-360-dashboard/blob/main/Urban_Company_Dashboard_Page_3.png
-4. Dashboard page 4: 
+4. Dashboard page 4: https://github.com/kewal-gupta/UC-360-dashboard/blob/main/Urban_Company_Dashboard_Page_4.png
 5. Dashboard page 5: 
